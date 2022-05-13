@@ -38,9 +38,9 @@ In the validation set, there are some business that are not seen before, so we t
 
 Run  [TrainUserModel.py](TrainUserModel.py) to train. If you have a GPU, it may take you 25 minutes.
 
-## Forth Step: Train Plain Side Model
+## Fourth Step: Train Plain Side Model
 
-To prevent from error, we also trained a plain model that only has the features in the dataset.
+To prevent from error, we also trained a plain model that only has the features in the dataset.But in practice, this model is nver called.
 
 Run  [TrainPlainModel.py](TrainPlainModel.py) to train. If you have a GPU, it may take you 20 minutes.
 
