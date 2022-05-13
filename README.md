@@ -40,7 +40,7 @@ Run  [TrainUserModel.py](TrainUserModel.py) to train. If you have a GPU, it may 
 
 ## Fourth Step: Train Plain Side Model
 
-To prevent from error, we also trained a plain model that only has the features in the dataset.But in practice, this model is nver called.
+To prevent from error, we also trained a plain model that only has the features in the dataset. But in practice, this model is never called.
 
 Run  [TrainPlainModel.py](TrainPlainModel.py) to train. If you have a GPU, it may take you 20 minutes.
 
