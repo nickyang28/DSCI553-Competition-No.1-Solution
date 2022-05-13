@@ -1,6 +1,10 @@
 # DSCI553-Competition-No.1-Solution
 USC ✌️ 2022 Spring DSCI 553 (Foundations and Applications of Data Mining) | Recommendation System Competition | 1st Solution
 
+**We Will Not Include Any Source Data Here.**
+
+We don't know the final RMSE on the hidden test set, but my guess is around 0.9670.
+
 ## First Step: Train Graph Embedding
 
 Run [GrapEmbeddingWithSideInformation.py](GrapEmbeddingWithSideInformation.py) to obtain the embedding for User, Business, and Category. It takes around 30 minutes.
